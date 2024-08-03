@@ -6,6 +6,8 @@
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
 # In[7]:
+z=69
+print (z)
 
 
 
@@ -13,15 +15,14 @@
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
-
-
+type (8.5)
 
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
 
 # In[8]:
-
+type (z)
 
 
 
@@ -30,6 +31,7 @@
 
 # In[2]:
 
+mi name=(Rafa)
 
 
 
@@ -37,15 +39,14 @@
 
 # In[3]:
 
-
-
+y= 3+5j
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
 # In[4]:
 
-
+type(y)
 
 
 
